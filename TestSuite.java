@@ -3,7 +3,7 @@ public class TestSuite {
     private boolean pass = false;
     private int score = 0;
     private int maxScore = 0;
-jmm
+
     public TestSuite()
     {
     }
